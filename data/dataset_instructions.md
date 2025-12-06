@@ -27,7 +27,7 @@ Cardboard, Food Organics, Glass, Metal, Miscellaneous Trash, Paper, Plastic, Tex
 
 Your system may show slightly different names depending on the version. 
 
-##3 Place the Dataset in the Correct Location
+## 3 Place the Dataset in the Correct Location
 
 Inside your cloned repo, create the following folder structure: 
 
@@ -38,7 +38,7 @@ RealWaster/
 
 Ensure that all of the category folders remain inside 'RealWaster/'
 
-##4. About the Dataset License 
+## 4. About the Dataset License 
 
 RealWaster is released under: 
 ** Creative Commons Attribution 4.0 (CC BY 4.0)**
@@ -46,12 +46,10 @@ RealWaster is released under:
 This means you may use and modify the dataset for academic purpose** as your provide appropriate attribution.**
 
 ---
-##5. Additional Notes for this Case Study 
+## 5. Additional Notes for this Case Study 
 - You will regroup the 9 original categories into **3 classes**
   - **Recyclable**
   - **Compostable**
   - **Trash**
 - This regrouping is implemented in the starter code
 - You must not upload the dataset itself to the Github repo.
-
-- 
