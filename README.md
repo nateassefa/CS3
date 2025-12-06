@@ -51,14 +51,14 @@ By completing this case study, you will:
 - Identity sources of uncertainity and bias in classification problems
 - Communicate your results clearly in a short, structured report
 
-  # Getting Started
-  1. Clone this repository
-  2. Install required Python Packages
-     - Tensorflow or torch
-     - numpy
-     - matplotlib
-     - scikit-learn
-     - pandas
+# Getting Started
+1. Clone this repository
+2. Install required Python Packages
+ - Tensorflow or torch
+ - numpy
+ - matplotlib
+ - scikit-learn
+ - pandas
 
 # Running the Starter Code 
 1. Load and preprocess data
@@ -86,15 +86,15 @@ Your final deliverable for this case study consists of:
 
   See rubric.pdf for full grading criteria.
 
-  # Supplemental Materials
-  The supplemental/ folder includes:
-  - blog_explainer.pdf -> a high level, student-friendly explainer on waste classification and CNNs
-  - technical_article.pdf -> a more technical resource on a key concept used in the case study (for example, CNNs or class imbalance)
-  - Any optional resources that may help you better undertand the problem or methods.
-    
-  These documents are also included the printed hard-copy submission.
+# Supplemental Materials
+The supplemental/ folder includes:
+- blog_explainer.pdf -> a high level, student-friendly explainer on waste classification and CNNs
+- technical_article.pdf -> a more technical resource on a key concept used in the case study (for example, CNNs or class imbalance)
+- Any optional resources that may help you better undertand the problem or methods.
 
-  # Author
-  Case study createdy by:
-  Nate Assefa
-  University of Virginia - DS 4002 
+These documents are also included the printed hard-copy submission.
+
+# Author
+Case study createdy by:
+Nate Assefa
+University of Virginia - DS 4002 
