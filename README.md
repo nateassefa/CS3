@@ -19,17 +19,14 @@ repo/
 | rubric.pdf
 |
 |--- data/
-|
+|    |--- dataset_instructions.md
 |--- scripts/
-|    |--- load_data.py
-|    |--- preprocess.py
-|    |--- cnn_model.py
-|    |--- evaluate.py
+|    |--- wastetypemodel.py
+|   
 |
 |___ supplemental/
     |--- blog_explainer.pdf
     |--- technical_article.pdf
-    |--- optional_resources/
 
 ```
 Dataset: RealWaster
